@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <h1>@Juwon4studentpaddy</h1>
+- 👋 Hi, I’m **@Juwon4studentpaddy**
 - 👀 I’m interested in ... Web dev
 - 🌱 I’m currently learning ... React x Redux
 - 💞️ I’m looking to collaborate on ... Open source projects
